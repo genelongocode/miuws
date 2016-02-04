@@ -1,2 +1,0 @@
-# miuws
-miuws pages
