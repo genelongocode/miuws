@@ -1,0 +1,132 @@
+/*!
+ * Start Bootstrap - Heroic Features HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 20px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+	background-image: url(../ny-2016-img/background.jpg);
+	font-family:"Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif, "Heiti SC light", "Droid Sans"
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+/* footer {
+    margin: 50px 0;
+} */
+
+/* add css */
+hr {
+	border-top: 6px dotted #fec;
+}
+
+a {
+	color: #d34;
+    text-decoration: none;
+}
+a:hover {
+	color: #a13;
+    text-decoration: underline;
+}
+
+h1.add-subh1 {
+	font-weight:bold;
+	color:#c8010c;
+	margin-bottom:20px;
+}
+
+ul.social-buttons {
+	margin-bottom:0
+}
+ul.social-buttons li a {
+	display:block;
+	background-color:#c8010c;
+	border:1px solid #a13;
+	height:40px;
+	width:40px;
+	border-radius:100%;
+	font-size:20px;
+	line-height:40px;
+	color:#fff;
+	outline:0;
+	-webkit-transition:all .3s;
+	-moz-transition:all .3s;
+	transition:all .3s
+}
+
+.jumbotron {
+	height:440px;
+	background-image:url(../ny-2016-img/tb-banner.jpg);
+	border:2px solid #c00
+}
+.jumbotron h1 {
+	margin:20px;
+	color:#000;
+}
+.jumbotron p {
+	margin:20px;
+	margin-bottom:24px;
+	max-width:500px;
+	font-size:18px;
+	color:#666;
+}
+.jumbotron ul {
+	margin:20px;
+}
+
+.thumbnail p a {
+	margin:5px;
+}
+.thumbnail p a i {
+	margin:10px;
+}
+
+.thumbnail {
+	border: 1px solid #dfcbb9
+}
+
+.btn-primary {
+	background-color:#d34;
+	border-color:#a13;
+}
+.btn-primary:hover {
+	color:#a13;
+	background-color:#fd0;
+	border-color:#fc0
+}
+.btn-default {
+	color:#999;
+	background-color:#e6e6e6;
+	border-color:#adadad
+}
+.btn-default:hover {
+	color:#999;
+	background-color:#e6e6e6;
+	border-color:#adadad
+}
+
+footer {
+	padding:25px 0;
+	color:#936e4e;
+	text-align:center
+}
+footer span.copyright {
+	line-height:40px;
+	font-family:Montserrat, "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif, "Heiti SC light", "Droid Sans";
+	text-transform:uppercase;
+	text-transform:none
+}
+footer ul.quicklinks {
+	margin-bottom:0;
+	line-height:40px;
+	font-family:Montserrat, "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif, "Heiti SC light", "Droid Sans";
+	text-transform:uppercase;
+	text-transform:none
+}
